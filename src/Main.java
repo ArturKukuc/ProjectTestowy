@@ -45,7 +45,7 @@ public class Main {
         return function.apply(source);
     }
 
-    public static int yo;
+    public static int yo=1;
 
 }
 
